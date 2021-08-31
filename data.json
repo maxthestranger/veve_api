@@ -1,0 +1,31 @@
+{
+  "phone_number": "0792922304",
+  "mpesa_phone_number": "0792922304",
+  "delivery_location": "mountain mall, garden estate",
+  "user_type": "null",
+  "otp": "null",
+  "lat": "97.09",
+  "long": "45.90",
+  "order": [
+    {
+      "id": "order_001",
+      "order_date_time": "2021-08-31:12:23",
+      "shipment_date_time": "2021-08-31:12:23",
+      "rider_id": "rider_001",
+      "shipped": true,
+      "paid": true,
+      "payment_id": "pay_001",
+      "order_details_id": "order_details_001"
+    },
+    {
+      "id": "order_002",
+      "order_date_time": "2021-08-31:12:23",
+      "shipment_date_time": "2021-08-31:12:23",
+      "rider_id": "rider_001",
+      "shipped": true,
+      "paid": true,
+      "payment_id": "pay_002",
+      "order_details_id": "order_details_002"
+    }
+  ]
+}
